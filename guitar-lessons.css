@@ -139,7 +139,7 @@ p {
 /*Carousel section*/
 #box3 {
   /*padding:40px 10px;*/
-   background:url("https://www.pandroza.net/mypics/guitars-bw-wide.jpg");
+   background:url("guitars-bw-wide.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -240,7 +240,7 @@ max-width: 300px;
 }
 /*Contact section*/
 #box5 {
-   background:url("https://www.pandroza.net/mypics/guitars-bw-wide2.jpg");
+   background:url("guitars-bw-wide2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
